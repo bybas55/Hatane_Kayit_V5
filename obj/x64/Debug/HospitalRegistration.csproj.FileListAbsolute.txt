@@ -1,0 +1,17 @@
+C:\Users\bbas5\Desktop\HastaneKayit-V5\bin\x64\Debug\HastaneKayit.exe
+C:\Users\bbas5\Desktop\HastaneKayit-V5\bin\x64\Debug\HastaneKayit.pdb
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HospitalRegistration.csprojAssemblyReference.cache
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HastaneKayit.AdminPaneli.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HastaneKayit.AlinanRandevular.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HastaneKayit.Doktor.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HastaneKayit.DoktorBilgileri.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HastaneKayit.Form1.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HastaneKayit.ParolamiUnuttum.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HastaneKayit.Properties.Resources.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HastaneKayit.randevuAra.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HastaneKayit.uyeGuncelle.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HastaneKayit.yeniUye.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HospitalRegistration.csproj.GenerateResource.cache
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HospitalRegistration.csproj.CoreCompileInputs.cache
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HastaneKayit.exe
+C:\Users\bbas5\Desktop\HastaneKayit-V5\obj\x64\Debug\HastaneKayit.pdb

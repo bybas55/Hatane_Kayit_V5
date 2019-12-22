@@ -1,0 +1,241 @@
+c:\users\hp\documents\visual studio 2010\Projects\HastaneKayit\bin\Debug\HastaneKayit.exe
+c:\users\hp\documents\visual studio 2010\Projects\HastaneKayit\bin\Debug\HastaneKayit.pdb
+c:\users\hp\documents\visual studio 2010\Projects\HastaneKayit\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2010\Projects\HastaneKayit\obj\x86\Debug\HastaneKayit.Form1.resources
+c:\users\hp\documents\visual studio 2010\Projects\HastaneKayit\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\HastaneKayit\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\hp\documents\visual studio 2010\Projects\HastaneKayit\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\hp\documents\visual studio 2010\Projects\HastaneKayit\obj\x86\Debug\HastaneKayit.exe
+c:\users\hp\documents\visual studio 2010\Projects\HastaneKayit\obj\x86\Debug\HastaneKayit.pdb
+c:\users\hp\documents\visual studio 2010\Projects\HastaneKayit\obj\x86\Debug\HastaneKayit.Admin.resources
+c:\users\hp\documents\visual studio 2010\Projects\HastaneKayit\obj\x86\Debug\HastaneKayit.AdminDoktorGiris.resources
+c:\users\hp\documents\visual studio 2010\Projects\HastaneKayit\obj\x86\Debug\HastaneKayit.yeniUye.resources
+C:\Users\HP\documents\visual studio 2010\Projects\HastaneKayit\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\HastaneKayit\obj\x86\Debug\HastaneKayit.randevuAra.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\HastaneKayit\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\HastaneKayit\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.exe
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.pdb
+C:\Users\gur\Desktop\HastaneKayit\bin\Debug\HastaneKayit.exe
+C:\Users\gur\Desktop\HastaneKayit\bin\Debug\HastaneKayit.pdb
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Form1.resources
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.randevuAra.resources
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.yeniUye.resources
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.AdminPaneli.resources
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.exe
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.pdb
+C:\Users\HP\Desktop\HastaneKayit\bin\Debug\HastaneKayit.exe
+C:\Users\HP\Desktop\HastaneKayit\bin\Debug\HastaneKayit.pdb
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.AdminPaneli.resources
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Form1.resources
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.randevuAra.resources
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.yeniUye.resources
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.DoktorBilgileri.resources
+C:\Users\HP\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Doktor.resources
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.exe
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.pdb
+C:\Users\L1P6\Desktop\HastaneKayit\bin\Debug\HastaneKayit.exe
+C:\Users\L1P6\Desktop\HastaneKayit\bin\Debug\HastaneKayit.pdb
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.AdminPaneli.resources
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Doktor.resources
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.DoktorBilgileri.resources
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Form1.resources
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.randevuAra.resources
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.yeniUye.resources
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\L1P6\Desktop\HastaneKayit\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.exe
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.pdb
+H:\HastaneKayit\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.Admin.resources
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.AdminDoktorGiris.resources
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.AdminPaneli.resources
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.Doktor.resources
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.DoktorBilgileri.resources
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.Form1.resources
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.randevuAra.resources
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+H:\HastaneKayit\obj\x86\Debug\HastaneKayit.yeniUye.resources
+H:\HastaneKayit\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\HastaneKayit\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\HastaneKayit\bin\Debug\HastaneKayit.exe
+H:\HastaneKayit\bin\Debug\HastaneKayit.pdb
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Doktor.resources
+C:\Users\gur\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.DoktorBilgileri.resources
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.exe
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.pdb
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\bin\Debug\HastaneKayit.exe
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\bin\Debug\HastaneKayit.pdb
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.AdminPaneli.resources
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.Doktor.resources
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.DoktorBilgileri.resources
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.Form1.resources
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.randevuAra.resources
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.yeniUye.resources
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\L1P6\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.exe
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.pdb
+H:\109İsmailGür\HastaneKayit\bin\Debug\HastaneKayit.exe
+H:\109İsmailGür\HastaneKayit\bin\Debug\HastaneKayit.pdb
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.AdminPaneli.resources
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.Doktor.resources
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.DoktorBilgileri.resources
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.Form1.resources
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.randevuAra.resources
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.yeniUye.resources
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\109İsmailGür\HastaneKayit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.exe
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.pdb
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\bin\Debug\HastaneKayit.exe
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\bin\Debug\HastaneKayit.pdb
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.AdminPaneli.resources
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.Doktor.resources
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.DoktorBilgileri.resources
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.Form1.resources
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.randevuAra.resources
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\HastaneKayit.yeniUye.resources
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\L1P20\Desktop\109İsmailGür\HastaneKayit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\HastaneKayit.exe
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\HastaneKayit.pdb
+C:\Users\HP\Desktop\HastaneKayit - Kopya\bin\Debug\HastaneKayit.exe
+C:\Users\HP\Desktop\HastaneKayit - Kopya\bin\Debug\HastaneKayit.pdb
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\HastaneKayit.AdminPaneli.resources
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\HastaneKayit.Doktor.resources
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\HastaneKayit.DoktorBilgileri.resources
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\HastaneKayit.Form1.resources
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\HastaneKayit.randevuAra.resources
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\HastaneKayit.yeniUye.resources
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\Desktop\HastaneKayit - Kopya\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.exe
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.pdb
+C:\Users\hasany\Downloads\HastaneKayit\bin\Debug\HastaneKayit.exe
+C:\Users\hasany\Downloads\HastaneKayit\bin\Debug\HastaneKayit.pdb
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.csprojResolveAssemblyReference.cache
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.AdminPaneli.resources
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.Doktor.resources
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.DoktorBilgileri.resources
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.Form1.resources
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.randevuAra.resources
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.yeniUye.resources
+C:\Users\hasany\Downloads\HastaneKayit\obj\x86\Debug\HastaneKayit.csproj.GenerateResource.Cache
+C:\Users\hasany\Desktop\Yeni klasör\HastaneKayit\obj\x86\Debug\HastaneKayit.exe
+C:\Users\hasany\Desktop\Yeni klasör\HastaneKayit\obj\x86\Debug\HastaneKayit.pdb
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.exe
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.pdb
+C:\Users\Supernatural\Desktop\HastaneKayit\bin\Debug\HastaneKayit.exe
+C:\Users\Supernatural\Desktop\HastaneKayit\bin\Debug\HastaneKayit.pdb
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.csprojResolveAssemblyReference.cache
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.AdminPaneli.resources
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Doktor.resources
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.DoktorBilgileri.resources
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Form1.resources
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.randevuAra.resources
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.yeniUye.resources
+C:\Users\Supernatural\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.csproj.GenerateResource.Cache
+C:\Users\Supernatural\Desktop\2016 Bilgisayar Programcılığı\HastaneKayit\obj\x86\Debug\HastaneKayit.exe
+C:\Users\Supernatural\Desktop\2016 Bilgisayar Programcılığı\HastaneKayit\obj\x86\Debug\HastaneKayit.pdb
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.exe
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.pdb
+C:\Users\Ferhat\Desktop\HastaneKayit\bin\Debug\HastaneKayit.exe
+C:\Users\Ferhat\Desktop\HastaneKayit\bin\Debug\HastaneKayit.pdb
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.AdminPaneli.resources
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Doktor.resources
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.DoktorBilgileri.resources
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Form1.resources
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.randevuAra.resources
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.yeniUye.resources
+C:\Users\Ferhat\Desktop\HastaneKayit\obj\x86\Debug\HastaneKayit.csproj.GenerateResource.Cache
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.exe
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.pdb
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\bin\Debug\HastaneKayit.exe
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\bin\Debug\HastaneKayit.pdb
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.csprojResolveAssemblyReference.cache
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.AdminPaneli.resources
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.Doktor.resources
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.DoktorBilgileri.resources
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.Form1.resources
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.randevuAra.resources
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.yeniUye.resources
+C:\Users\Supernatural\Desktop\HastaneKayit-V2\obj\x86\Debug\HastaneKayit.csproj.GenerateResource.Cache
+C:\Users\Supernatural\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.exe
+C:\Users\Supernatural\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.pdb
+C:\Users\bbas5\Desktop\HastaneKayit-V3\bin\Debug\HastaneKayit.exe
+C:\Users\bbas5\Desktop\HastaneKayit-V3\bin\Debug\HastaneKayit.pdb
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.csprojAssemblyReference.cache
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.AdminPaneli.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.AlinanRandevular.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.Doktor.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.DoktorBilgileri.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.Form1.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.ParolamiUnuttum.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.Properties.Resources.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.randevuAra.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.uyeGuncelle.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.yeniUye.resources
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.csproj.GenerateResource.cache
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.csproj.CoreCompileInputs.cache
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.exe
+C:\Users\bbas5\Desktop\HastaneKayit-V3\obj\x86\Debug\HastaneKayit.pdb
